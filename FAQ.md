@@ -8,7 +8,7 @@ Please click the "Forgot Password" button below the unlock password interface.
 - **Q: What can I do if I fail to launch from dialer.**
 - A: 
 </br>Option 1.Visit http://htmlpreview.github.io/?https://github.com/kaku2015/ScreenMonitorDocs/blob/master/screen_monitor.html in the system browser.
-</br>Option 2.Visit here:Settings -> Apps -> ScreenMonitor -> Storage -> Manage Space.
+</br>Option 2.Visit here:Settings -> Apps -> Hidden Eye -> Storage -> Manage Space.
 
 - **Q: "Intruder Selfie" feature does not work.**
 - A: 
@@ -21,14 +21,11 @@ Please click the "Forgot Password" button below the unlock password interface.
 </br>7.Confirm that the floating window permission is turned on.
 </br>8.Some systems (oppo, vivo, etc.) may not work.
 
-- **Q: How to uninstall ScreenMonitor in Device Owner mode?**
-- A: Just select "Uninstall" in the settings of ScreenMonitor.
+- **Q: How to uninstall Hidden Eye in Device Owner mode?**
+- A: Just select "Uninstall" in the settings of Hidden Eye.
 
 - **Q: Account info can not be updated.**
 - A: Your account may be logged on multiple devices at the same time, and this problem will be resolved after re-login.
-
-- **Q: Cannot enter the ScreenMonitor by long press title from the disguise interface.**
-- A: This means that you have turned on the switch that Prohibit Unlocking by Long Press Title. At this point, you can open the ScreenMonitor by entering the PIN (if the current unlocking mode is Time PIN, enter the Time PIN and note the Time PIN is 24-hour format) and long press the calculation result button. If the fingerprint lock is on, use your fingerprint to unlock it. If none of the above methods work, use a system browser to access the website <http://htmlpreview.github.io/?https://github.com/kaku2015/ScreenMonitorDocs/blob/master/screen_monitor.html> or dial the number by phone , After dialing "\*#\*#1111#\*#\*" (Galaxy is invalid) to start the ScreenMonitor, check the relevant settings or disable the Prohibit Unlocking by Long Press Title.
 
 - **Q: It shows "The account has been bound with another device, please unbind first."**
 - A: The same account can only log in on the same device at the same time. The abnormal brushing can causes the IMEI to change, please unbind it before flashing or logging in on other devices.
