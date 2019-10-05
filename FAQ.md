@@ -19,7 +19,8 @@ Please click the "Forgot Password" button below the unlock password interface.
 </br>5.Confirm that the storage space is sufficient.
 </br>6.Make sure that the system version is 6.0 or higher.
 </br>7.Confirm that the floating window permission is turned on.
-</br>8.Some systems (oppo, vivo, etc.) may not work.
+</br>8.Android detects failed attempts ONLY if passcode has atleast 4 letters or points, so as Hidden Eye.
+</br>9.Some systems (oppo, vivo, etc.) may not work.
 
 - **Q: How to uninstall Hidden Eye in Device Owner mode?**
 - A: Just select "Uninstall" in the settings of Hidden Eye.
